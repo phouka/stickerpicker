@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "dev.json",
+    "buko.json"
+  ],
+  "homeserver_url": "https://matrix.alchemono.org"
+}
